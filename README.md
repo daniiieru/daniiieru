@@ -9,7 +9,7 @@ A guy who's having a hard time learning things :c
 ![](https://komarev.com/ghpvc/?username=daniiieru&color=blue)
 
 <h2 align="center">Les Languages de Programmation</h2>
-<p align="center">Un résumé de mes compétences en programmation. ## (Je les maîtrise pas encore totalement ^^) </p>
+<p align="center">Un résumé de mes compétences en programmation. (Je les maîtrise pas encore totalement ^^) </p>
 
 <p align="center">
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/java.png' height='50px'>
