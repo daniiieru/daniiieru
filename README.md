@@ -2,22 +2,8 @@
 <img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'>  
 
 # BIO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.com/slicklearn) and [Arkflame Network](https://twitter.com/ArkflameNetwork)  
+Founder and Admin on [DarwozNetwork](https://twitter.com/DarwozNetwork)  
 
-🧮 Lover of Mathematics, ⚛️ Quantum Mechanics/Physics, 🌎 Astronomy, and 🧪 Chemistry.  
+A guy who's having a hard time learning things :c  
   
-![](https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet)
-
-#### Contact me on Discord: Sammwy#0001
-
-
-
-
-
-
-<img src="icon.png" align="right" />
-
-# BIO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A curated list of awesome READMEs
-
-Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
+![](https://komarev.com/ghpvc/?username=daniiieru&color=blue)
